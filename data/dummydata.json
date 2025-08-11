@@ -1,0 +1,23 @@
+{"courses":[
+    {"id":1,
+    "name":"HTML",
+    "price":199,
+    "image":"./assets/download.jpg",
+    "rating":"5"
+  },
+  {
+    "id":2,
+    "name":"CSS",
+    "price":199,
+    "image":"./assets/css.png",
+    "rating":"4"
+  },
+  {
+    "id":3,
+    "name":"JS",
+    "price":299,
+    "image":"./assets/js.jpg",
+    "rating":"3"
+  }
+]
+}
